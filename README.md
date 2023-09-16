@@ -1,6 +1,8 @@
 # Education
 BS Computer Science (3rd Year)
+
 SY: 2021 - Present
+
 
 # Certifications
 SQL AND RELATIONAL DATABASES 101
@@ -18,6 +20,7 @@ Date Achieved: December 4, 2022
 SKILL UP: BUSINESS ANALYTICS WITH EXCEL
 
 Date Achieved: September 7, 2023
+
 
 # Skill Sets
 Java, MongoDB
